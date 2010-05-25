@@ -1,0 +1,16 @@
+=== Requirements
+Python:
+2.5 or later
+
+Python modules:
+
+. wxPython 2.8
+. elaphe (latest version)
+. Python Imaging Library
+. reportLab
+. sqlite3
+. pyPDF
+. threading
+. tarfile
+
+
